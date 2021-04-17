@@ -1,0 +1,35 @@
+.save_btn {
+    color: #ffffff;
+    background-color: lightgreen;
+    border: none;
+    padding: 15px;
+    /* width: 100%; */
+    border-radius: 10px;
+    min-width: 100px;
+    margin-right: 10px;
+}
+.reset_btn {
+    color: #ffffff;
+    background-color: red;
+    border: none;
+    padding: 15px;
+    /* width: 100%; */
+    border-radius: 10px;
+    min-width: 100px;
+}
+.draw_btn {
+    color: #ffffff;
+    background-color: olive;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 10px;
+    min-width: 100px;
+}
+.txtcenter {
+    text-align: center;
+}
+.cur {
+    outline: none !important;
+    cursor: pointer;
+}
